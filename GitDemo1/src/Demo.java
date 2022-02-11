@@ -7,6 +7,11 @@ public class Demo {
 		
 		System.out.println("hello");
 	}
+	public void m2()
+	{
+		
+		System.out.println("welcome");
+	}
 	public static void main(String[] args) {
 		
 		
